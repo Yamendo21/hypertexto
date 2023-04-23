@@ -2,4 +2,6 @@ Estado de mi primer repositorio
 esto es una prueba para las clases de git y github 
 de manera profesional.
 
+Ya esto es otra muestra de los cambios que debo hacer para guardar un commit
+
 Mucha suerte!!!
